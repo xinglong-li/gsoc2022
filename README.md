@@ -8,7 +8,7 @@ My work can be roughly separated into two parts.
 In the first part, I wrote demos and short sections for the textbook.
 In the second part, I mainly contribute to the ssm-jax package.
 
-1. ## Work on the text book
+## 1. Work on the text book
 
 In the first two months I mainly focused on the text book 
 
@@ -16,7 +16,7 @@ In the first two months I mainly focused on the text book
 
 - Write subsections on Variational inference of DP mixture model
 
-2. ## Work on the ssm-jax package
+## 2. Work on the ssm-jax package
 
 This is packagte is about the state space models using jax.
 
