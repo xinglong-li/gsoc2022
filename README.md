@@ -28,7 +28,7 @@ and can be further used for causal inference.
 
 
 
-## Summary
+# Summary
 
 I am honored to work with Kevin this summer to contribute to the textbook the orginal version of which 
 has influenced me a lot. The advisors in the team of ssm-jax are very supportive and always willing to help.
