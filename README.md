@@ -1,14 +1,14 @@
 # GSoC 2022 Summary
 
 I participated in [Google Summer of Code 2022](https://summerofcode.withgoogle.com/) as a contributor in the past summer,
-and I worked with [Kevin P. Murphy](https://www.cs.ubc.ca/~murphyk/) on the [PyProbML] repo, which is used for the textbook 
-"Probabilistic Machine Learning: Advanced Topics".
+and I worked with [Kevin P. Murphy](https://www.cs.ubc.ca/~murphyk/) on the [PyProbML](https://github.com/probml) repo, 
+which is used for the textbook ["Probabilistic Machine Learning: Advanced Topics"](https://probml.github.io/pml-book/book2.html).
 
 My work can be roughly separated into two parts.
 In the first part, I wrote demos and short sections for the textbook.
 In the second part, I mainly contribute to the ssm-jax package.
 
-## 1. Work on the [text book](https://probml.github.io/pml-book/book2.html)
+## 1. Work on the text book
 
 In the first two months I mainly focused on the text book 
 
