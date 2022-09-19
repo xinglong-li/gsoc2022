@@ -14,7 +14,7 @@ In the second part, I joined the [ssm-jax](https://github.com/probml/ssm-jax) gr
 
 - Add demos of [Dirichlet process (DP) mixture model for clustering](https://github.com/probml/pyprobml/blob/master/notebooks/book2/31/dp_mixgauss_cluster.ipynb)
 
-- Add subsections on Variational inference of DP mixture model.
+- Add a subsection on Variational inference of DP mixture model.
 
 ## 2. Work on the ssm-jax package
 
