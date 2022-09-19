@@ -8,6 +8,7 @@ My work can be roughly separated into two parts.
 In the first part, I wrote demos and short sections for the textbook.
 In the second part, I mainly contribute to the ssm-jax package.
 
+# Highlights
 ## 1. Work on the text book
 
 In the first two months I mainly focused on the text book 
