@@ -8,7 +8,7 @@ My work can be roughly separated into two parts.
 In the first part, I wrote demos and short sections for the textbook.
 In the second part, I mainly contribute to the ssm-jax package.
 
-## 1. Work on the text book
+## 1. Work on the [text book](https://probml.github.io/pml-book/book2.html)
 
 In the first two months I mainly focused on the text book 
 
@@ -22,7 +22,7 @@ This is packagte is about the state space models using jax.
 
 - Write subsections on posteriror inference of state space models using 
 
-- Linear Gaussian dynamics system using conjugate priors (https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py).
+- Linear Gaussian dynamics system using [conjugate priors](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py).
 
 - Add learning algorithms for general [LGSSM models](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm.py).
 
