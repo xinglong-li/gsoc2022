@@ -5,8 +5,8 @@ and I worked with [Kevin P. Murphy](https://www.cs.ubc.ca/~murphyk/) on the [PyP
 which is a complement to the textbook ["Probabilistic Machine Learning: Advanced Topics"](https://probml.github.io/pml-book/book2.html).
 
 My work can be roughly separated into two parts.
-In the first half of my work, I worked on adding demos and short sections to the textbook.
-In the second part, I joined the [ssm-jax](https://github.com/probml/ssm-jax) group and mainly focused on contributing to the ssm-jax package.
+In the first half of the summer, I worked on adding demos and short sections to the textbook.
+In the second half, I joined the [ssm-jax](https://github.com/probml/ssm-jax) group and mainly focused on contributing to the ssm-jax package.
 
 # Highlights
 
