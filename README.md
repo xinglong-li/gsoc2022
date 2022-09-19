@@ -24,7 +24,7 @@ In the second part, I joined the [ssm-jax](https://github.com/probml/ssm-jax) gr
 This model is a general framework which takes Structural time series models as special cases
 and can be further used for causal inference. 
 
-- Add [LGSSM models with conjugate priors] to the ssm-jax package.(https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py).
+- Add [LGSSM models with conjugate priors](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py) to the ssm-jax package.
 
 
 
