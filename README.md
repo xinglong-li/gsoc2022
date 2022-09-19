@@ -25,6 +25,7 @@ This is packagte is about the state space models using jax.
 - Linear Gaussian dynamics system using [conjugate priors](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py).
 
 - Add learning algorithms for general [LGSSM models](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm.py).
+This model is a fundamental framework and can be used in Structural time series model and causal inference. 
 
 ## Summary
 
