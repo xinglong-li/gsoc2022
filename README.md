@@ -1,7 +1,7 @@
 # GSoC 2022 Summary
 
-I participated [Google Summer of Code 2022](https://summerofcode.withgoogle.com/) as a contributor,
-and I worked with Kevin Murphy on the [PyProbML] repo, which is used for the textbook 
+I participated in [Google Summer of Code 2022](https://summerofcode.withgoogle.com/) as a contributor in the past summer,
+and I worked with [Kevin P. Murphy](https://www.cs.ubc.ca/~murphyk/) on the [PyProbML] repo, which is used for the textbook 
 "Probabilistic Machine Learning: Advanced Topics".
 
 My work can be roughly separated into two parts.
@@ -12,7 +12,7 @@ In the second part, I mainly contribute to the ssm-jax package.
 
 In the first two months I mainly focused on the text book 
 
-- Write demos Dirichlet process
+- Write demos of [Dirichlet process mixture model for clustering](https://github.com/probml/pyprobml/blob/master/notebooks/book2/31/dp_mixgauss_cluster.ipynb)
 
 - Write subsections on Variational inference of DP mixture model
 
@@ -22,9 +22,9 @@ This is packagte is about the state space models using jax.
 
 - Write subsections on posteriror inference of state space models using 
 
-- Linear Gaussian dynamics system using conjugate priors.
+- Linear Gaussian dynamics system using conjugate priors (https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm_conjugate.py).
 
-- Add learning algorithms for general LGSSM models.
+- Add learning algorithms for general [LGSSM models](https://github.com/probml/ssm-jax/blob/main/ssm_jax/linear_gaussian_ssm/models/linear_gaussian_ssm.py).
 
 ## Summary
 
